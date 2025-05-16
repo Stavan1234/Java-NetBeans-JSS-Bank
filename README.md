@@ -22,9 +22,17 @@ This is a simple banking system created using **Java (NetBeans IDE)** and **MySQ
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
-> *Add screenshots here if you want to show UI*
+> ![image](https://github.com/user-attachments/assets/fb34c6d2-c2bd-4884-9ef6-cf171befbb01)
+> ![image](https://github.com/user-attachments/assets/0a1793e1-ae3c-4025-b288-6da1580641ba)
+> ![image](https://github.com/user-attachments/assets/ca0e5526-7398-4f20-8570-4b7151b1a424)
+> ![image](https://github.com/user-attachments/assets/5e6f5fe9-1e1d-4c59-9150-885bf0960dab)
+> 
+
+
+
+
 
 ---
 

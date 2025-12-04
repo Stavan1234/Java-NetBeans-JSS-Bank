@@ -41,3 +41,10 @@ This is a simple banking system created using **Java (NetBeans IDE)** and **MySQ
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+
+## AUTHORS
+- [STAVAN KALKUMBE](https://github.com/Stavan1234)
+- [JERIN REJI](https://github.com/Jerin055)
+- [SELENA RACHEL JATHANNA]
+
